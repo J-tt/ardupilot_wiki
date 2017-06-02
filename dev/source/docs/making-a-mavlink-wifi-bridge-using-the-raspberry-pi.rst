@@ -709,8 +709,13 @@ And enter the UDP Port on the next screen:
 .. image:: ../images/mp_connecting_enter_remote_port.png
     :target: ../_images/mp_connecting_enter_remote_port.png
 
-Using APM Planner -- TBD
+Using APM Planner
 ------------------------
+
+(Tested on v2.0.25-rc1)
+If you haven't enabled advance mode already, it can be enabled via file > Advanced Mode
+
+To connect go to Communication 
 
 Using a Tablet -- TBD
 ---------------------
